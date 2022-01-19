@@ -13,8 +13,7 @@ yarn dev
 - Using React and Next Js
 - Great UI
 - Payment Confimartion Cash of Delivery
-- Database API
-- MONGO DB
+- Database API Using Mongo DB
 
 ## IMAGE
 - Homepage
